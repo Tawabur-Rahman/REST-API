@@ -1,0 +1,20 @@
+h1,i{
+text-align: center;
+}
+.post{
+
+width: 300px;
+margin: auto;
+margin-top: 20px;
+border: 2px solid red;
+border-radius: 10px;
+text-align: center;
+}
+.post:hover{
+box-shadow: 2px 2px 10px gray;
+}
+button:hover{
+background-color: black;
+color: white;
+}
+
